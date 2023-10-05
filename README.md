@@ -1,4 +1,6 @@
-### Hi there 👋
+# SHE C</>DE AFRICA LAGOS 
+
+
 
 <!--
 **SCALagos/SCALagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
