@@ -1,5 +1,5 @@
 
-![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/shecodeafricalagosbanner.svg)
+![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 
 ### CONNECT WITH US 🌐 
 
