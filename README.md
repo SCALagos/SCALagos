@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 <a href="https://instagram.com/shecodeafricalagos">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   
 <a href="https://www.facebook.com/scalagoschapter/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -26,7 +26,7 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
  
 </div>
 
-<a href='https://forms.gle/5WgpkNx2wHEkBi9o7' alt='join us'><img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png??raw=true"'></a>
+<a href='https://forms.gle/5WgpkNx2wHEkBi9o7' alt='join us'><img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true"'></a>
 
 <!--
 **SCALagos/SCALagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
