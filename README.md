@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   
 <a href="https://twitter.com/SCALagosChapter">
-  <img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"</a>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"></a>
   
 
 ### 💻 WE ARE SHE CODE AFRICA LAGOS
