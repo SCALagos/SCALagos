@@ -1,7 +1,7 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 
-### CONNECT WITH US 🌐 
+### 💻 CONNECT WITH US 
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,7 +26,31 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
  
 </div>
 
-<a href='https://forms.gle/5WgpkNx2wHEkBi9o7' alt='join us'><img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'></a>
+<img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'>
+
+
+### 💻 WHY JOIN US
+
+- We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
+- We have programs and events tailored to give you help you grow in different tech space
+- We partner with organizations to give you discounted and free training
+- Be the first to hear of any job opportunity, internships and more
+- We mentor you and have you mentor others
+- We celebrate you!
+
+
+FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
+
+
+<hr><hr>
+
+This repo is open for contribution during this 2023 contribution. Here is how to contribute
+ 1. identify the issue you want to work on, please don't proceed if it has already been assigned to someone
+ 1. FORK this repo
+ 1. edit your fork with a solution
+ 1. create a pull request. 
+   1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
+   1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
 
 
 
