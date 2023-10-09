@@ -20,7 +20,7 @@
 
 <div align='center'>
 
-She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organization that seeks to empower ladies in the tech industry. We are an independent organization that's operating under She Code Africa where we believe passionately that increasing the number of women in the tech industry has the potential to change the world Our program and events are aligned with our sole vision which is to **EMPOWER WOMEN **in the Tech World. Click the links below to learn more about us
+She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organization that seeks to empower ladies in the tech industry. We are an independent organization that's operating under She Code Africa where we believe passionately that increasing the number of women in the tech industry has the potential to change the world Our program and events are aligned with our sole vision which is to **EMPOWER WOMEN** in the Tech World. Click the links below to learn more about us
 
  SHE CODE AFRICA    |  SHE CODE AFRICA (LAGOS CHAPTER)
  
@@ -39,18 +39,27 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - We celebrate you!
 
 
+### UPCOMING PROGRAMS THIS YEAR 2023
+- CONTRIBUTHON 
+- LINKEDIN CV REVIEW - VIRTUAL MEETING
+- LEARN HOW TO CODE
+  
+Join our community to stay updated 
+
+
 FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
 
 
 <hr><hr>
 
-This repo is open for contribution during this 2023 contribution. Here is how to contribute
- 1. identify the issue you want to work on, please don't proceed if it has already been assigned to someone
+
+** This repo is open for contribution during this 2023 contributhon. Here is how to contribute **
+ 1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
  1. FORK this repo
- 1. edit your fork with a solution
- 1. create a pull request. 
-   1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-   1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
+ 1. Edit your fork with a solution
+ 1. Create a pull request. 
+  1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
+  1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
 
 
 
