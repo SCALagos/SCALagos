@@ -1,5 +1,5 @@
 
-<a href="https://forms.gle/5WgpkNx2wHEkBi9o7" target="_blank"> <img src="https://github.com/SCALagos/SCALagos/raw/main/profilebanner.gif" alt="OURBANNER"></a>
+<a href="https://forms.gle/5WgpkNx2wHEkBi9o7" target="_blank"> <img src="https://github.com/SCALagos/SCALagos/raw/main/profilebanner.gif" alt="OURBANNER"> </a>
 
 ### 💻 CONNECT WITH US 
 
