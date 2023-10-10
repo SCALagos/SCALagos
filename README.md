@@ -1,5 +1,5 @@
 
-![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
+[![OURBANNER](https://github.com/SCALagos/SCALagos/raw/main/profilebanner.gif)](https://forms.gle/5WgpkNx2wHEkBi9o7)
 
 ### 💻 CONNECT WITH US 
 
