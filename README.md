@@ -1,9 +1,9 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 
-### 💻 CONNECT WITH US 
-
-<a href="https://linkedin.com/company/she-code-africa-lagos">
+<h3 align="center">💻 CONNECT WITH US</h3>
+<p align="center">
+  <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 <a href="https://instagram.com/shecodeafricalagos">
@@ -14,9 +14,10 @@
   
 <a href="https://twitter.com/SCALagosChapter">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"></a>
-  
+</p>
 
-### 💻 WE ARE SHE CODE AFRICA LAGOS
+
+<h3 align="center">💻 WE ARE SHE CODE AFRICA LAGOS</h3>
 
 <div align='center'>
 
