@@ -57,12 +57,12 @@ FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
  1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
  1. FORK this repo
  1. Edit your fork with a solution
- 1. Create a pull request. 
-  1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-  1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
-  1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
+ 1. Create a pull request.  
+     1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
+     1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
+1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
 
-
+ 
 
 <!--
 **SCALagos/SCALagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
