@@ -26,8 +26,41 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
  
 </div>
 
-<a href='https://forms.gle/5WgpkNx2wHEkBi9o7' alt='join us'><img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'></a>
+<img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'>
 
+
+### 💻 WHY JOIN US
+
+- We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
+- We have programs and events tailored to give you help you grow in different tech space
+- We partner with organizations to give you discounted and free training
+- Be the first to hear of any job opportunity, internships and more
+- We mentor you and have you mentor others
+- We celebrate you!
+
+
+### UPCOMING PROGRAMS THIS YEAR 2023
+- CONTRIBUTHON 
+- LINKEDIN CV REVIEW - VIRTUAL MEETING
+- LEARN HOW TO CODE
+  
+Join our community to stay updated 
+
+
+FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
+
+
+<hr><hr>
+
+
+**This repo is open for contribution during this 2023 contribution. Here is how to contribute**
+ 1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone.
+2. Fork this repo.
+3. Edit your fork with a solution.
+4. Create a pull request.
+   1. Don't merge two or more issues on one pull request.
+   2. Don't work on an issue if it is assigned to someone.
+6. Open the issue and indicate interest in the comment box so we can assign it to you before you send your PR.
 
 
 <!--
