@@ -53,7 +53,7 @@ FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
 <hr><hr>
 
 
-** This repo is open for contribution during this 2023 contributhon. Here is how to contribute **
+**This repo is open for contribution during this 2023 contributhon. Here is how to contribute**
  1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
  1. FORK this repo
  1. Edit your fork with a solution
