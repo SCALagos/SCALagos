@@ -51,7 +51,7 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 _**Join our community to stay updated**_ 
 
 
-FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
+**FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - [CONTACT US VIA EMAIL](mailto:shecodeafricalagos@gmail.com)**
 
 
 <hr><hr>
