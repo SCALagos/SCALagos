@@ -31,6 +31,8 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 ### 💻 WHY JOIN US
 
 - We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
+- We encourage and nurture leadership skills, offering you chances to take on leadership roles in projects, events, or within the organization itself
+- You get work on projects that have a positive impact on society or address real-world problems, making your contributions meaningful
 - We are a community that celebrates diversity, uniting women from various backgrounds to enrich your learning journey.
 - Connect and collaborate with like-minded women, fostering a supportive and engaging network.
 - We value your voice and experiences, cherishing the uniqueness you bring to our community.
