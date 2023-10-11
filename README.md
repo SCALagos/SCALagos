@@ -34,8 +34,17 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
 - We have programs and events tailored to give you help you grow in different tech space
 - We partner with organizations to give you discounted and free training
+- You will build meaningful friendships with fellow female tech professionals
+- You will collaborate on projects and initiatives with other community members
+- You will benefit from a wide range of perspectives and experiences in the tech field
 - Be the first to hear of any job opportunity, internships and more
+- You will develop leadership skills and take on leadership roles within the community
+- You will have the chance to engage in advocacy efforts to promote gender diversity in tech
 - We mentor you and have you mentor others
+- You will find emotional and professional support during challenging times
+- You will find fulfillment in being part of a community that aligns with your passions and goals.
+- There will be access to tech-related events and conferences with special focus on women in tech.
+
 - We celebrate you!
 
 
