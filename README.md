@@ -26,12 +26,15 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
  
 </div>
 
-<img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'>
-
+![Join Us](https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true)
 
 ### 💻 WHY JOIN US
 
 - We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
+- We are a community that celebrates diversity, uniting women from various backgrounds to enrich your learning journey.
+- Connect and collaborate with like-minded women, fostering a supportive and engaging network.
+- We value your voice and experiences, cherishing the uniqueness you bring to our community.
+- We provide opportunities and resources to propel your career growth in the tech industry.
 - We have programs and events tailored to give you help you grow in different tech space
 - We partner with organizations to give you discounted and free training
 - Be the first to hear of any job opportunity, internships and more
@@ -44,23 +47,23 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - LINKEDIN CV REVIEW - VIRTUAL MEETING
 - LEARN HOW TO CODE
   
-Join our community to stay updated 
+_**Join our community to stay updated**_ 
 
 
-FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
+**FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - [CONTACT US VIA EMAIL](mailto:shecodeafricalagos@gmail.com)**
 
 
 <hr><hr>
 
 
-** This repo is open for contribution during this 2023 contributhon. Here is how to contribute **
+**This repo is open for contribution during this 2023 contributhon. Here is how to contribute**
  1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
  1. FORK this repo
  1. Edit your fork with a solution
  1. Create a pull request. 
-  1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-  1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
-  1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
+    1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
+    1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
+    1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
 
 
 
