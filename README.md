@@ -1,6 +1,8 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 
+<div align='center'>
+  
 ### 💻 CONNECT WITH US 
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
@@ -17,6 +19,8 @@
   
 
 ### 💻 WE ARE SHE CODE AFRICA LAGOS
+
+</div>
 
 <div align='center'>
 
