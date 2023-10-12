@@ -44,7 +44,7 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 
 
 ### UPCOMING PROGRAMS THIS YEAR 2023
-- CONTRIBUTHON 
+***- CONTRIBUTHON*** 
 - LINKEDIN CV REVIEW - VIRTUAL MEETING
 - LEARN HOW TO CODE
   
