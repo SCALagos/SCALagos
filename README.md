@@ -1,7 +1,10 @@
 
 [![OURBANNER](https://github.com/SCALagos/SCALagos/raw/main/profilebanner.gif)](https://forms.gle/5WgpkNx2wHEkBi9o7)
+
+
 <div align="center">
-### 💻 CONNECT WITH US
+
+  ### 💻 CONNECT WITH US
 
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
