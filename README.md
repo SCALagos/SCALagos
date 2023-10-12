@@ -22,16 +22,22 @@
 
 She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organization that seeks to empower ladies in the tech industry. We are an independent organization that's operating under She Code Africa where we believe passionately that increasing the number of women in the tech industry has the potential to change the world Our program and events are aligned with our sole vision which is to **EMPOWER WOMEN** in the Tech World. Click the links below to learn more about us
 
- SHE CODE AFRICA    |  SHE CODE AFRICA (LAGOS CHAPTER)
+ **[SHE CODE AFRICA](shecodeafrica.org)    |  [SHE CODE AFRICA (LAGOS CHAPTER)](https://shecodeafrica-lagos.vercel.app/)**
  
 </div>
+
 
 <a href="https://forms.gle/5WgpkNx2wHEkBi9o7">
 <img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'></a>
 
+
+
+
 ### 💻 WHY JOIN US
 
 - We have a rich community, that will help you meet ladies in different fields who can mentor and contribute to your growth
+- We encourage and nurture leadership skills, offering you chances to take on leadership roles in projects, events, or within the organization itself
+- You get work on projects that have a positive impact on society or address real-world problems, making your contributions meaningful
 - We are a community that celebrates diversity, uniting women from various backgrounds to enrich your learning journey.
 - Connect and collaborate with like-minded women, fostering a supportive and engaging network.
 - We value your voice and experiences, cherishing the uniqueness you bring to our community.
@@ -48,23 +54,23 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - LINKEDIN CV REVIEW - VIRTUAL MEETING
 - LEARN HOW TO CODE
   
-Join our community to stay updated 
+_**Join our community to stay updated**_ 
 
 
-FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - CONTACT US VIA EMAIL
+**FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - [CONTACT US VIA EMAIL](mailto:shecodeafricalagos@gmail.com)**
 
 
 <hr><hr>
 
 
-** This repo is open for contribution during this 2023 contributhon. Here is how to contribute **
+**This repo is open for contribution during this 2023 contributhon. Here is how to contribute**
  1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
  1. FORK this repo
  1. Edit your fork with a solution
  1. Create a pull request. 
-  1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-  1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
-  1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
+    1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
+    1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
+    1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
 
 
 
