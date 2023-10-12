@@ -1,7 +1,7 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 
-### 💻 CONNECT WITH US 
+ ### 💻 CONNECT WITH US 
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -44,7 +44,7 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - We celebrate you!
 
 
-### UPCOMING PROGRAMS THIS YEAR 2023
+_**UPCOMING PROGRAMS THIS YEAR 2023**_
 - CONTRIBUTHON 
 - LINKEDIN CV REVIEW - VIRTUAL MEETING
 - LEARN HOW TO CODE
