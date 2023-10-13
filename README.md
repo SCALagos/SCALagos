@@ -1,7 +1,7 @@
 
-![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
+<a target="_blank" href="https://forms.gle/5WgpkNx2wHEkBi9o7" alt="google-form-link">![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)</a>
 
-<div align="center">### 💻 CONNECT WITH US 
+<div align="center"> 💻 CONNECT WITH US 
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,8 +22,7 @@
 
 She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organization that seeks to empower ladies in the tech industry. We are an independent organization that's operating under She Code Africa where we believe passionately that increasing the number of women in the tech industry has the potential to change the world Our program and events are aligned with our sole vision which is to **EMPOWER WOMEN** in the Tech World. Click the links below to learn more about us
 
- **[SHE CODE AFRICA](shecodeafrica.org)    |  [SHE CODE AFRICA (LAGOS CHAPTER)](https://shecodeafrica-lagos.vercel.app/)**
- </div>
+ **[SHE CODE AFRICA](shecodeafrica.org)    |  [SHE CODE AFRICA (LAGOS CHAPTER)](https://shecodeafrica-lagos.vercel.app/)**</div>
  
 </div>
 
