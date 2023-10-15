@@ -1,7 +1,7 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
 <div align="center">
-<h2>💻 CONNECT WITH US</h3>
+<h2>💻 CONNECT WITH US</h2>
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
