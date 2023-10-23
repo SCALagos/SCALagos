@@ -49,26 +49,9 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - LEARN HOW TO CODE
   
 
-***Join our community to stay updated***
-
- 
-
-
-
 **FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - [CONTACT US VIA EMAIL](mailto:shecodeafricalagos@gmail.com)**
 
-
-<hr><hr>
-
-
-**This repo is open for contribution during this 2023 contributhon. Here is how to contribute**
- 1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
- 1. FORK this repo
- 1. Edit your fork with a solution
- 1. Create a pull request. 
-    1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-    1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
-    1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
+***Join our community to stay updated***
 
 
 
