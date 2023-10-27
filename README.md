@@ -1,7 +1,7 @@
 
 ![OURBANNER](https://github.com/SCALagos/SCALagos/blob/main/profilebanner.gif)
-
-### 💻 CONNECT WITH US 
+<div align="center">
+<h3>💻 CONNECT WITH US</h3>
 
 <a href="https://linkedin.com/company/she-code-africa-lagos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,15 +18,18 @@
 
 ### 💻 WE ARE SHE CODE AFRICA LAGOS
 
-<div align='center'>
-
 She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organization that seeks to empower ladies in the tech industry. We are an independent organization that's operating under She Code Africa where we believe passionately that increasing the number of women in the tech industry has the potential to change the world Our program and events are aligned with our sole vision which is to **EMPOWER WOMEN** in the Tech World. Click the links below to learn more about us
 
- **[SHE CODE AFRICA](shecodeafrica.org)    |  [SHE CODE AFRICA (LAGOS CHAPTER)](https://shecodeafrica-lagos.vercel.app/)**
+ **[SHE CODE AFRICA](https://shecodeafrica.org)    |  [SHE CODE AFRICA (LAGOS CHAPTER)](https://shecodeafrica-lagos.vercel.app/)**
  
 </div>
 
+
 [![Join Us](https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true)](https://forms.gle/5WgpkNx2wHEkBi9o7)
+
+<a href="https://forms.gle/5WgpkNx2wHEkBi9o7">
+<img src='https://github.com/SCALagos/SCALagos/blob/main/joinus.png?raw=true'></a>
+
 
 ### 💻 WHY JOIN US
 
@@ -44,28 +47,15 @@ She Code Africa Lagos also known as (SCA Lagos) is a non-governmental organizati
 - We celebrate you!
 
 
-### UPCOMING PROGRAMS THIS YEAR 2023
+<b><i> UPCOMING PROGRAMS THIS YEAR 2023</i></b>
 - CONTRIBUTHON 
 - LINKEDIN CV REVIEW - VIRTUAL MEETING
 - LEARN HOW TO CODE
   
-_**Join our community to stay updated**_ 
-
 
 **FOR ENQUIRIES AND SPONSORSHIPS ON OUR PROGRAMS - [CONTACT US VIA EMAIL](mailto:shecodeafricalagos@gmail.com)**
 
-
-<hr><hr>
-
-
-**This repo is open for contribution during this 2023 contributhon. Here is how to contribute**
- 1. Identify the issue you want to work on, please don't proceed if it has already been assigned to someone
- 1. FORK this repo
- 1. Edit your fork with a solution
- 1. Create a pull request. 
-    1. DONT MERGE TWO OR MORE ISSUES ON ONE PULL REQUEST
-    1. DONT WORK ON AN ISSUE IF ITS ASSIGN TO SOMEONE
-    1. OPEN THE ISSUE AND INDICATE INTEREST IN THE COMMENT BOX SO WE CAN ASSIGN TO YOU BEFORE YOU SEND YOUR PR
+***Join our community to stay updated***
 
 
 
